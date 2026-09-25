@@ -92,7 +92,7 @@ python -m http.server 8000
 
 ## 🌐 Live Demo
 
-🔗 **[https://YOUR-USERNAME.github.io/itleap-pro/](https://YOUR-USERNAME.github.io/itleap-pro/)**
+🔗 🔗 [https://N-laz.github.io/it-leap-flashcards/](https://N-laz.github.io/it-leap-flashcards/)
 
 ---
 
