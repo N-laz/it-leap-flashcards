@@ -133,9 +133,8 @@ Licensed under the **MIT License**.
 
 ## 👤 Author
 
-- 🌐 Portfolio: [mandalastudio.asia](https://www.mandalastudio.asia)
-- 💻 GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- ✉️ Email: your-email@example.com
+- 💻 GitHub: https://github.com/N-laz
+- ✉️ Email: kazinomanimtiyaz7656@gmail.com
 
 ---
 
